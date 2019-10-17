@@ -9,7 +9,7 @@ Studied Computer Engineering in ADA University.
 
 Currently working as a senior embedded software engineer at [Sumaks Technologies][], where we create electronic products. All work done for projects are local (PCB design, firmware etc.).
 
-<br/><br/>
+<br/>
 
 ## Education 
 
