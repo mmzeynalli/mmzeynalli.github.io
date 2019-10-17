@@ -15,7 +15,7 @@ Currently working as a senior embedded software engineer at [Sumaks Technologies
 
 I studied in [ADA University][] in the major of [Computer Engineering][]. I graduated with State Honor Diploma and with Latin honor of Summa Cum Laude, because of my high GPA (3.91 out of 4). Moreover, during my studies, I won Erasmus+ scholarship and studied one semester in [Koc University][], one of the leading universities of Turkey, as exchange student in [Electrical and Electronics Engineering][].
 
-<br/><br/>
+<br/>
 
 ## Embedded skills
 
@@ -26,7 +26,7 @@ I studied in [ADA University][] in the major of [Computer Engineering][]. I grad
 * Interfaces and protocols such as: I2C, SPI, USART, ADC, Timers, SDIO, FATFS
 * Schematic and PCB design (KiCAD)
 
-<br/><br/>
+<br/>
 
 ## Computing stack
 
@@ -38,7 +38,7 @@ I studied in [ADA University][] in the major of [Computer Engineering][]. I grad
 * PL/SQL
 * Java - OOP, Threads
 
-<br/><br/>
+<br/>
 
 ## Languages
 
