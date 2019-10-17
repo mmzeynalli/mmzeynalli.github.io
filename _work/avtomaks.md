@@ -1,6 +1,6 @@
 ---
 title: Avtomaks v2.0
-externalLink: https://mmzeynalli.github.io/avtomaks
+externalLink: https://mmzeynalli.github.io/work/about/avtomaks
 order: 2
 ---
 
