@@ -24,8 +24,7 @@ I studied in [ADA University][] in the major of [Computer Engineering][]. I grad
 * Interfaces and protocols such as: I2C, SPI, USART, ADC, Timers, SDIO, FATFS
 * Schematic and PCB design (KiCAD)
 
-
-<!-- ![]({{ site.url }}/assets/images/workshape.png) -->
+## 
 
 ## Computing stack
 * C - pointers, memory allocation, threads, signal handling etc.
@@ -36,6 +35,7 @@ I studied in [ADA University][] in the major of [Computer Engineering][]. I grad
 * PL/SQL
 * Java - OOP, Threads
 
+## 
 
 ## Languages
 * Azerbaijani: Native
@@ -49,4 +49,4 @@ I studied in [ADA University][] in the major of [Computer Engineering][]. I grad
 [ADA University]: https://www.ada.edu.az/
 [Computer Engineering]: https://www.ada.edu.az/en/schools/programs/site/123-computer-engineering
 [Koc University]: https://www.ku.edu.tr/en/
-[Electrical and Electronics Engineering] : https://eng.ku.edu.tr/en/academics/electrical-and-electronics-engineering/
+[Electrical and Electronics Engineering]: https://eng.ku.edu.tr/en/academics/electrical-and-electronics-engineering/
