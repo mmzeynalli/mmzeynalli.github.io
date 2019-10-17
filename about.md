@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
-<span style="color: #000000; font-family: Tahoma;  text-align: center; font-size: 3em;">ABOUT</span>
+<div style="color: #000000; font-family: Tahoma; text-align: center; font-size: 2em;">ABOUT</div>
 
 Trained as a biomedical engineer, computational biologist and doctor.
 
