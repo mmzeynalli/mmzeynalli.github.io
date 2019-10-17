@@ -1,6 +1,6 @@
 ---
 title: Smart Scroller
-#externalLink: false
+externalLink: false
 order: 3
 ---
 

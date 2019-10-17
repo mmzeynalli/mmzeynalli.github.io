@@ -1,6 +1,6 @@
 ---
 title: Avtomaks v2.0
-externalLink: false
+externalLink: ../avtomaks.md
 order: 2
 ---
 
