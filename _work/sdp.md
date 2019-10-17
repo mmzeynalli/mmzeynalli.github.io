@@ -10,3 +10,5 @@ Diploma work dedicated to analysis and visualization of approximately 6 year dat
 * Programming Language: Python
 * Used Libraries: pandas, numpy, matplotlib, seaborne, pymongo
 * Database: MongoDB
+
+<br/>
