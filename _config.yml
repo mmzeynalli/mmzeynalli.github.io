@@ -15,7 +15,7 @@ logo: false
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://mmzeynalli.github.io/mycv/extended
+resume-url: https://elipapa.github.io/mycv/extended
 
 url: https://mmzeynalli.github.io
 # your url: http://USERNAME.github.io
@@ -60,8 +60,8 @@ authors:
         name: Miradil Zeynalli
         bio: Embedded Software Engineer
         external-image: false
-        picture: false
-        twitter: false
+        # picture: false
+        # twitter: false
 
 collections:
   work:
@@ -71,7 +71,7 @@ collections:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5

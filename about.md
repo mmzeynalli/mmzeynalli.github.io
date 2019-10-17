@@ -17,7 +17,6 @@ I studied in [ADA University][] in the major of [Computer Engineering][]. I grad
 
 <br/><br/>
 
-
 ## Embedded skills
 
 * STM32, ATmega, Teensy microcontrollers
@@ -30,6 +29,7 @@ I studied in [ADA University][] in the major of [Computer Engineering][]. I grad
 <br/><br/>
 
 ## Computing stack
+
 * C - pointers, memory allocation, threads, signal handling etc.
 * C++ - STL
 * Python - pandas, numpy, matplotlib, seaborne, pyqt, mongodb
@@ -41,6 +41,7 @@ I studied in [ADA University][] in the major of [Computer Engineering][]. I grad
 <br/><br/>
 
 ## Languages
+
 * Azerbaijani: Native
 * English: Fluent
 * Russian: Fluent
