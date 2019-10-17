@@ -8,6 +8,8 @@ GPS device for tracking car. With this device you can get: latitude, longitutde,
 
 ## Used Technologies
 * Microcontroller: ATmega 2560
-* Modules: SIM800, NEO-6M GPS (libraries are written from scratch in low level)
+* Modules & Sensors: SIM800, NEO-6M GPS (libraries are written from scratch in low level)
 * Communication Protocol: TCP
 * System: FreeRTOS
+
+<br/>
