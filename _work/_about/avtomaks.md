@@ -1,5 +1,8 @@
+---
+title: Avtomaks v2.0
+---
 
-<div style="color: #000000; font-family: Tahoma; text-align: center; font-size: 2em;">AVTOMAKS</div>
+<div style="font-family: Tahoma; text-align: center; font-size: 2em;">AVTOMAKS</div>
 
 <br></br>
 
