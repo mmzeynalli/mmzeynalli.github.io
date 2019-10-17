@@ -11,3 +11,5 @@ Device for automating advertising scrollers. One can edit time for each adv, blo
 * Modules: SIM800
 * Communication Protocol: MQTT
 * System: Mbed OS
+
+<br/>
