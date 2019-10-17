@@ -9,13 +9,14 @@ Studied Computer Engineering in ADA University.
 
 Currently working as a senior embedded software engineer at [Sumaks Technologies][], where we create electronic products. All work done for projects are local (PCB design, firmware etc.).
 
+<br/><br/>
 
 ## Education 
 
 I studied in [ADA University][] in the major of [Computer Engineering][]. I graduated with State Honor Diploma and with Latin honor of Summa Cum Laude, because of my high GPA (3.91 out of 4). Moreover, during my studies, I won Erasmus+ scholarship and studied one semester in [Koc University][], one of the leading universities of Turkey, as exchange student in [Electrical and Electronics Engineering][].
 
 <br/><br/>
-<br/><br/>
+
 
 ## Embedded skills
 
@@ -27,7 +28,6 @@ I studied in [ADA University][] in the major of [Computer Engineering][]. I grad
 * Schematic and PCB design (KiCAD)
 
 <br/><br/>
-<br/><br/>
 
 ## Computing stack
 * C - pointers, memory allocation, threads, signal handling etc.
@@ -38,7 +38,6 @@ I studied in [ADA University][] in the major of [Computer Engineering][]. I grad
 * PL/SQL
 * Java - OOP, Threads
 
-<br/><br/>
 <br/><br/>
 
 ## Languages
