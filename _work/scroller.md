@@ -10,6 +10,6 @@ Device for automating advertising scrollers. One can edit time for each adv, blo
 * Microcontroller: STM32F103C8
 * Modules: SIM800
 * Communication Protocol: MQTT
-* System: Mbed OS
+* Environment: Mbed OS
 
 <br/>
