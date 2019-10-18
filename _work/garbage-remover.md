@@ -1,5 +1,5 @@
 ---
-title: GarbageRemover
+title: GarbageCollector [Link Available]
 externalLink: https://github.com/mmzeynalli/MobileRobot
 order: 5
 ---
