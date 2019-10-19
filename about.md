@@ -30,13 +30,13 @@ I studied in [ADA University][] in the major of [Computer Engineering][]. I grad
 
 ## Computing stack
 
-* C - pointers, memory allocation, threads, signal handling etc.
-* C++ - STL
-* Python - pandas, numpy, matplotlib, seaborne, pyqt, mongodb
-* Assembler
-* Linux - Git, bash
-* PL/SQL
-* Java - OOP, Threads
+* C - pointers, memory allocation, threads, signal handling etc.  (4 years)
+* C++ - STL                                                       (3 years)
+* Python - pandas, numpy, matplotlib, seaborne, pyqt, mongodb     (1 year)
+* Assembler                                                       (1 year)
+* Linux - Git, bash                                               (2 years)
+* PL/SQL                                                          (1 year)
+* Java - OOP, Threads                                             (1 year)
 
 <br/>
 
