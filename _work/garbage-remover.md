@@ -1,7 +1,7 @@
 ---
 title: GarbageCollector [Link Available]
 externalLink: https://github.com/mmzeynalli/MobileRobot
-order: 5
+order: 7
 ---
 
 Autonomous robot. Walks on table, does not fall and if there is rectangular "garbage" takes it, comes to the edge of table and drops it.

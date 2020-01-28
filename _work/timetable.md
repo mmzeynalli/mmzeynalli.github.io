@@ -1,7 +1,7 @@
 ---
 title: TimeTable Machine
 externalLink: false
-order: 8
+order: 10
 ---
 
 Software for solving time-conflict of classes for students of our university (using Constrain Satisfaction Problem).

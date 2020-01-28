@@ -1,7 +1,7 @@
 ---
 title: TheWorldsHardestGame [Link Available]
 externalLink: https://github.com/mmzeynalli/TheWorldsHardestGame_Q-Learning
-order: 6
+order: 8
 ---
 
 QLearning applied to infamous game called: TheWorldsHardestGame
