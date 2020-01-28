@@ -8,7 +8,7 @@ Small, wearable, low-power GPS tracker for tracking and preventing from losing y
 
 ## Used Technologies
 * Microcontroller: STM32L151C8
-* Modules & Sensors: HM-19, NEO-7C, SIM800C
+* Modules & Sensors: HM-19, u-blox MAX-7C, SIM800C
 * Communication Protocol: HTTP (POST request)
 
 <br/>
