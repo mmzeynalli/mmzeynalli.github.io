@@ -7,7 +7,7 @@ layout: page
 
 Studied Computer Engineering in ADA University.
 
-Currently working as a senior embedded software engineer at [Sumaks Technologies][], where we create electronic products. All work done for projects are local (PCB design, firmware etc.).
+Currently working as a senior embedded software engineer at [Sumaks Technologies][], where we create IoT products. All work are done by local engineers (PCB design, firmware etc.).
 
 <br/>
 
@@ -24,7 +24,7 @@ I studied in [ADA University][] in the major of [Computer Engineering][]. I grad
 * STM32CubeIDE
 * Messaging protocols: LoRaWAN, MQTT, TCP, HTTP
 * Interfaces and protocols such as: I2C, SPI, USART, ADC, Timers, SDIO, FATFS
-* Schematic and PCB design (KiCAD)
+* Schematic reading
 
 <br/>
 
